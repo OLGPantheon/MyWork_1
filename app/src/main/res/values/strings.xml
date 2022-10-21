@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mywork</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="myapp">微信</string>
+    <string name="Show_fragment1">Show_fragment1</string>
+    <string name="Show_fragment2">Show_fragment2</string>
+    <string name="Show_fragment3">Show_fragment3</string>
+    <string name="Show_fragment4">Show_fragment4</string>
+</resources>
